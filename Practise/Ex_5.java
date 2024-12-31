@@ -1,6 +1,6 @@
 package Practise;
 
-public class Ex_4 {
+public class Ex_5 {
 
 	public static void main(String[] args) {
 
@@ -8,6 +8,7 @@ public class Ex_4 {
 		System.out.println("First commit done");
 		System.out.println("Second commit done");
 		System.out.println("Third commit done");
+		System.out.println("Forth commit done");
 	}
 
 }
